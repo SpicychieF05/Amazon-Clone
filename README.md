@@ -58,9 +58,6 @@ We welcome contributions! Feel free to **fork** this repository, create a new br
 4. Push to the branch (`git push origin feature-branch`) 🚀
 5. Open a Pull Request 🔥
 
-## 📜 License
-This project is licensed under the **MIT License** 📜.
-
 ## 📧 Contact
 📌 **GitHub:** [SpicychieF05](https://github.com/SpicychieF05)
 📌 **Email:** [mallickchirantan@gmail.com]
